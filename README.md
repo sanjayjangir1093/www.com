@@ -1,1 +1,3 @@
-git bahs
+git bash 
+add my workspace
+
